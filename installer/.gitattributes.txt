@@ -1,7 +1,10 @@
-# No convertir finales de línea en archivos binarios
+* text=auto
+*.application binary
 *.manifest binary
-*.dll binary
+*.deploy binary
 *.exe binary
+*.dll binary
+*.pdb binary
 
 # No modificar finales de línea en archivos de texto críticos
 *.manifest text eol=lf
