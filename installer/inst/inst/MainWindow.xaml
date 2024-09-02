@@ -18,6 +18,26 @@
             </Button.RenderTransform>
         </Button>
         <Label Content="pokk´kjj´pj´j´pj´pj´pjp" HorizontalAlignment="Left" Height="135" Margin="210,204,0,0" VerticalAlignment="Top" Width="500"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="80" Margin="235,322,0,0" VerticalAlignment="Top" Width="225" RenderTransformOrigin="0.5,0.5">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-176.814"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button Content="Button" HorizontalAlignment="Left" Height="80" Margin="560,52,0,0" VerticalAlignment="Top" Width="225" RenderTransformOrigin="0.5,0.5">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="28.259"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
 
     </Grid>
 </Window>

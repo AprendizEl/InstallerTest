@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\inst\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A564D66-0BC8-428A-8824-DA0E7BE71B1A}|inst\\inst.csproj|c:\\users\\eecheto\\desktop\\installer testing\\installertest\\installer\\inst\\inst\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A564D66-0BC8-428A-8824-DA0E7BE71B1A}|inst\\inst.csproj|solutionrelative:inst\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\inst\\inst\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "inst\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\inst\\inst\\MainWindow.xaml",
+              "RelativeToolTip": "inst\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-02T17:28:50.541Z",
+              "EditorCaption": ""
             }
           ]
         }
