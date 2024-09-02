@@ -438,7 +438,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>CoAkh6AgoykuwNLv6xUmS5bFtbBae9lNjldFm/du+jw=</dsig:DigestValue>
+      <dsig:DigestValue>o9kBFtveVUxivjS1rSmIBHznE5zE5nb1fbnRg5U9ir0=</dsig:DigestValue>
     </hash>
   </file>
   <file name="WpfApp4.exe" size="217600">
@@ -447,7 +447,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>3hj9Nb8gmKS0Vov36saDnpW2Re14y6v2QXkupLAqVso=</dsig:DigestValue>
+      <dsig:DigestValue>oZRJoEA52xTTCan/qEaA9j8fYmaJ6jy5Rr64clLSzKw=</dsig:DigestValue>
     </hash>
   </file>
   <file name="WpfApp4.runtimeconfig.json" size="372">
