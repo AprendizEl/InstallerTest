@@ -1,0 +1,28 @@
+﻿<Window x:Class="WpfApp4.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp4"
+        
+        
+        xmlns:lvc="clr-namespace:LiveChartsCore.SkiaSharpView.WPF;assembly=LiveChartsCore.SkiaSharpView.WPF"
+          mc:Ignorable="d" 
+          Height="750" Width="560"> 
+
+    <Grid x:Name="grid1">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="20"/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Text="Vista Previa" HorizontalAlignment="Center" FontWeight="Light" FontSize="20" />
+        <lvc:CartesianChart Name="Grafic" Height="690" Width="550" >
+
+        </lvc:CartesianChart>
+        
+        <Button Click="Button_Click" Grid.Row="2" Background="AliceBlue" Content="Documentarrrrrrrrrrrrrrrrr">
+
+        </Button>
+    </Grid>
+</Window>

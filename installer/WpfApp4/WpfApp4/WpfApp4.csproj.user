@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\eecheto\Desktop\Installer Testing\InstallerTest\WpfApp4\WpfApp4\Properties\PublishProfiles\ClickOnceProfile5.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="NewFolder\Gr1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="NewFolder\Gr2.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="NewFolder\Gr3.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Window1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="NewFolder\Gr1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="NewFolder\Gr2.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="NewFolder\Gr3.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Window1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
