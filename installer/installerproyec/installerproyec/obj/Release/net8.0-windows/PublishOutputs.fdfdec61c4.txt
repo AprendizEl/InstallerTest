@@ -1,5 +1,0 @@
-C:\Users\eecheto\Desktop\Installer Testing\InstallerTest\installer\installerproyec\installerproyec\bin\Release\net8.0-windows\app.publish\installerproyec.exe
-C:\Users\eecheto\Desktop\Installer Testing\InstallerTest\installer\installerproyec\installerproyec\bin\Release\net8.0-windows\app.publish\installerproyec.dll
-C:\Users\eecheto\Desktop\Installer Testing\InstallerTest\installer\installerproyec\installerproyec\bin\Release\net8.0-windows\app.publish\installerproyec.deps.json
-C:\Users\eecheto\Desktop\Installer Testing\InstallerTest\installer\installerproyec\installerproyec\bin\Release\net8.0-windows\app.publish\installerproyec.runtimeconfig.json
-C:\Users\eecheto\Desktop\Installer Testing\InstallerTest\installer\installerproyec\installerproyec\bin\Release\net8.0-windows\app.publish\installerproyec.pdb

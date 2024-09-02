@@ -1,0 +1,5 @@
+C:\Users\eecheto\Desktop\Installer Testing\InstallerTest\installer\inst\inst\bin\Release\net8.0-windows\app.publish\inst.exe
+C:\Users\eecheto\Desktop\Installer Testing\InstallerTest\installer\inst\inst\bin\Release\net8.0-windows\app.publish\inst.dll
+C:\Users\eecheto\Desktop\Installer Testing\InstallerTest\installer\inst\inst\bin\Release\net8.0-windows\app.publish\inst.deps.json
+C:\Users\eecheto\Desktop\Installer Testing\InstallerTest\installer\inst\inst\bin\Release\net8.0-windows\app.publish\inst.runtimeconfig.json
+C:\Users\eecheto\Desktop\Installer Testing\InstallerTest\installer\inst\inst\bin\Release\net8.0-windows\app.publish\inst.pdb
