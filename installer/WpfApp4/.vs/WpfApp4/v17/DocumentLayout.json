@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\",
+  "WorkspaceRootPath": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\wpfapp4\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|c:\\users\\eecheto\\desktop\\installer testing\\installertest\\installer\\wpfapp4\\wpfapp4\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\wpfapp4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\wpfapp4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\wpfapp4\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\wpfapp4\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\wpfapp4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\wpfapp4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\wpfapp4\\newfolder\\gr2.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "AbsoluteMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\wpfapp4\\newfolder\\gr2.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\newfolder\\gr2.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\wpfapp4\\newfolder\\gr1.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "AbsoluteMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\wpfapp4\\newfolder\\gr1.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\newfolder\\gr1.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\wpfapp4\\newfolder\\gr3.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "AbsoluteMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\wpfapp4\\newfolder\\gr3.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\newfolder\\gr3.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\wpfapp4\\newfolder\\gr2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\wpfapp4\\newfolder\\gr2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\newfolder\\gr2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\wpfapp4\\newfolder\\gr3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\wpfapp4\\newfolder\\gr3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\newfolder\\gr3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\wpfapp4\\newfolder\\gr1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\wpfapp4\\newfolder\\gr1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\newfolder\\gr1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\wpfapp4\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\wpfapp4\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6005EB45-4E91-49A5-B26B-5B8DC4D0B5AD}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -64,9 +64,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Window1.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\WpfApp4\\Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\WpfApp4\\Window1.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp4\\Window1.xaml.cs",
-              "ToolTip": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\WpfApp4\\Window1.xaml.cs",
+              "ToolTip": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\WpfApp4\\Window1.xaml.cs",
               "RelativeToolTip": "WpfApp4\\Window1.xaml.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAMwBcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -76,20 +76,21 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Window1.xaml",
-              "DocumentMoniker": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\WpfApp4\\Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\WpfApp4\\Window1.xaml",
               "RelativeDocumentMoniker": "WpfApp4\\Window1.xaml",
-              "ToolTip": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\WpfApp4\\Window1.xaml",
+              "ToolTip": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\WpfApp4\\Window1.xaml",
               "RelativeToolTip": "WpfApp4\\Window1.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-22T19:10:37.076Z"
+              "WhenOpened": "2024-08-22T19:10:37.076Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Gr2.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\WpfApp4\\NewFolder\\Gr2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\WpfApp4\\NewFolder\\Gr2.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp4\\NewFolder\\Gr2.xaml.cs",
-              "ToolTip": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\WpfApp4\\NewFolder\\Gr2.xaml.cs",
+              "ToolTip": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\WpfApp4\\NewFolder\\Gr2.xaml.cs",
               "RelativeToolTip": "WpfApp4\\NewFolder\\Gr2.xaml.cs",
               "ViewState": "AQIAADsAAAAAAAAAAAAtwEwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,9 +100,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\WpfApp4\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\WpfApp4\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfApp4\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\WpfApp4\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\WpfApp4\\MainWindow.xaml",
               "RelativeToolTip": "WpfApp4\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-08-22T20:00:06.864Z"
@@ -110,9 +111,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Gr1.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\WpfApp4\\NewFolder\\Gr1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\WpfApp4\\NewFolder\\Gr1.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp4\\NewFolder\\Gr1.xaml.cs",
-              "ToolTip": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\WpfApp4\\NewFolder\\Gr1.xaml.cs",
+              "ToolTip": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\WpfApp4\\NewFolder\\Gr1.xaml.cs",
               "RelativeToolTip": "WpfApp4\\NewFolder\\Gr1.xaml.cs",
               "ViewState": "AQIAAC8AAAAAAAAAAAAewEMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -122,9 +123,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\WpfApp4\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\WpfApp4\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp4\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\WpfApp4\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\WpfApp4\\MainWindow.xaml.cs",
               "RelativeToolTip": "WpfApp4\\MainWindow.xaml.cs",
               "ViewState": "AQIAAIoAAAAAAAAAAAAswDwAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -134,9 +135,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Gr3.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\WpfApp4\\NewFolder\\Gr3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\WpfApp4\\NewFolder\\Gr3.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp4\\NewFolder\\Gr3.xaml.cs",
-              "ToolTip": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\WpfApp4\\NewFolder\\Gr3.xaml.cs",
+              "ToolTip": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\WpfApp4\\NewFolder\\Gr3.xaml.cs",
               "RelativeToolTip": "WpfApp4\\NewFolder\\Gr3.xaml.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAAAAAEIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -146,9 +147,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\WpfApp4\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\WpfApp4\\App.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp4\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\WpfApp4\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\WpfApp4\\App.xaml.cs",
               "RelativeToolTip": "WpfApp4\\App.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -158,9 +159,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Gr2.xaml",
-              "DocumentMoniker": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\WpfApp4\\NewFolder\\Gr2.xaml",
+              "DocumentMoniker": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\WpfApp4\\NewFolder\\Gr2.xaml",
               "RelativeDocumentMoniker": "WpfApp4\\NewFolder\\Gr2.xaml",
-              "ToolTip": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\WpfApp4\\NewFolder\\Gr2.xaml",
+              "ToolTip": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\WpfApp4\\NewFolder\\Gr2.xaml",
               "RelativeToolTip": "WpfApp4\\NewFolder\\Gr2.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-08-22T18:50:43.08Z"
@@ -169,9 +170,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Gr1.xaml",
-              "DocumentMoniker": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\WpfApp4\\NewFolder\\Gr1.xaml",
+              "DocumentMoniker": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\WpfApp4\\NewFolder\\Gr1.xaml",
               "RelativeDocumentMoniker": "WpfApp4\\NewFolder\\Gr1.xaml",
-              "ToolTip": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\WpfApp4\\NewFolder\\Gr1.xaml",
+              "ToolTip": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\WpfApp4\\NewFolder\\Gr1.xaml",
               "RelativeToolTip": "WpfApp4\\NewFolder\\Gr1.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-08-22T18:50:19.719Z"
@@ -180,9 +181,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Gr3.xaml",
-              "DocumentMoniker": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\WpfApp4\\NewFolder\\Gr3.xaml",
+              "DocumentMoniker": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\WpfApp4\\NewFolder\\Gr3.xaml",
               "RelativeDocumentMoniker": "WpfApp4\\NewFolder\\Gr3.xaml",
-              "ToolTip": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\WpfApp4\\NewFolder\\Gr3.xaml",
+              "ToolTip": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\WpfApp4\\NewFolder\\Gr3.xaml",
               "RelativeToolTip": "WpfApp4\\NewFolder\\Gr3.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-08-22T18:51:02.889Z"

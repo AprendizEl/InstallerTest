@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8xvQMURT2ZPGM0eDgEpIKZKaBCYsygl0VrpCSQV6CZsIU/VXwJTz9IATShXsyd5Bzz14UDd7cgV71F2se9KxZA==",
+  "dgSpecHash": "Hw5eN6xemRHLjALqXFH9HGLVwpJTJSToOdR2h+ml7df7ZX48PqO3SfBH3Jk9tv9EhjgFnUpZaNfCNeYxMcQg1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\WpfApp4\\WpfApp4\\WpfApp4.csproj",
+  "projectFilePath": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\WpfApp4\\WpfApp4\\WpfApp4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eecheto\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\eecheto\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
