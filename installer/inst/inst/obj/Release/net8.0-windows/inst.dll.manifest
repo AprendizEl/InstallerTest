@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="inst.exe" version="1.0.0.5" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="inst.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="Launcher" version="8.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Launcher.exe" size="16384">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Launcher.exe" size="17328">
       <assemblyIdentity name="Launcher" version="8.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>fCWuRcNwjIWdiGXr6Nd7yv6v1ppdOSRj0k+ZOWI8+iI=</dsig:DigestValue>
+        <dsig:DigestValue>NjPJwgjNcpOU4pHhDCdxFP43LLDOilkrrCXXkCGjfSY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -62,22 +62,22 @@
       <dsig:DigestValue>aaFJkx9OagpiwKMSGDxYqTF8wvBnquQdjuD5BLnfogM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="inst.dll" size="7680">
+  <file name="inst.dll" size="8624">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>WQ1PUTCg/haXslmagvkTle6T7SlZhevlW5Nyis6b1kI=</dsig:DigestValue>
+      <dsig:DigestValue>JntKIE5vZgbjmRbjYJOUhF4cIq/WTu0iAFY1kWzPo3w=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="inst.exe" size="142848">
+  <file name="inst.exe" size="143792">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>fZeupOylxzkCld4SG4TvzM2u0ADXYmMmWxr1RbUd338=</dsig:DigestValue>
+      <dsig:DigestValue>cRaRBxe1vcbxNjX8A6PaYPfuN99mucSAWy7p3EuHyYA=</dsig:DigestValue>
     </hash>
   </file>
   <file name="inst.runtimeconfig.json" size="458">
